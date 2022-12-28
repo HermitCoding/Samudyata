@@ -1,6 +1,7 @@
 body {
   margin: 0;
   overflow-y: scroll;
+  font-family: 'Eczar', serif;
 }
 
 body::-webkit-scrollbar {
@@ -163,9 +164,8 @@ body::-webkit-scrollbar {
 }
 
 .about p {
-  flex-grow: 1;
   text-align: center;
-  padding: 40px 100px;
+  padding: 80px 400px;
   margin-bottom: 0;
   font-size: 20px;
 }
@@ -200,7 +200,7 @@ body::-webkit-scrollbar {
 .footer {
   display: grid;
   grid-template-columns: 2fr 1fr 1fr;
-  background-color: #004471;
+  background-color: #000030;
   color: #E6E9EC;
 }
 
@@ -234,4 +234,9 @@ body::-webkit-scrollbar {
 .socials {
   padding: 40px;
 
+}
+
+
+.contact {
+  background-color: #004471;
 }
