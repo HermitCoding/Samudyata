@@ -48,7 +48,7 @@ body::-webkit-scrollbar {
 
 #hero-img {
   height: 80vh;
-  background: url('https://github.com/HermitCoding/Samudyata/blob/main/bg.jpg?raw=true');
+  background: url('./bg.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: 100% auto;
