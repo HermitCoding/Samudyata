@@ -240,3 +240,20 @@ body::-webkit-scrollbar {
 .contact {
   background-color: #004471;
 }
+
+.contact h2 {
+  padding-top: 60px;
+  flex-grow: 1;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 2rem;
+  margin-top: 0;
+  color: #000;
+}
+
+.contact p {
+  text-align: center;
+  padding: 80px 400px;
+  margin-bottom: 0;
+  font-size: 20px;
+}
